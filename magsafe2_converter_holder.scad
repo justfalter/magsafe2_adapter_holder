@@ -1,4 +1,4 @@
-// Apple Magsafe 2 adapter holder. 
+// Apple Magsafe 2 converter holder. 
 // Mike Ryan (falter@gmail.com)
 // Creative Commons Sharealike Attribution license 4.0: 
 //  https://creativecommons.org/licenses/by-sa/4.0/
@@ -22,10 +22,10 @@ outerRadius=innerRadius+wallThickness;
 xOffset = innerWidth - 2*innerRadius;
 yOffset = innerLength - 2*innerRadius;
 
-magsafe2_adapter_holder();
+magsafe2_converter_holder();
 
 
-module magsafe2_adapter_holder() {
+module magsafe2_converter_holder() {
   body();
   tab();
 }
