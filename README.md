@@ -1,4 +1,4 @@
-Concerned that I would lose $15 Apple Magsafe 2 converter, I designed this holder  
+Concerned that I would lose my $15 Apple Magsafe 2 converter, I designed this holder  
 to easily attach to my old Magsafe power cable using a rubber hair-tie.  
 
 It was printed using PLA at 0.2mm height.   
